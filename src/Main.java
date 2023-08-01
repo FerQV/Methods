@@ -22,9 +22,9 @@ public class Main
 
     private static void printNameCharacters( String name )
     {
-        System.out.println(name.charAt());
-        
+        int cantidad = String.valueOf(name).length();
+		for (int num = 0; num < cantidad; num++) {
+			System.out.println(name.charAt(num));
+		}
     }
-
-
 }
