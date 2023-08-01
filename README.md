@@ -1,7 +1,7 @@
 # Methods
-##Tarea de Métodos
+## Tarea de Métodos
 ### Realizar los siguientes ejercicios:
-####Part 1:
+#### Part 1:
 Download the project and import it into IntelliJ Idea
 Implement the following functions:
     private static void printNameLength( String name )
@@ -16,7 +16,7 @@ Implement the following functions:
 Test your code with 5 different names and verify that the behaviour is correct.
 Modify your code to also capture from the user the last name.
 Implement an additional function that prints the FUll name of the person.
-####Part 2:
+#### Part 2:
 Create a new Java class that will have the following functionality:
 
 Name should be CalculatorBrain
